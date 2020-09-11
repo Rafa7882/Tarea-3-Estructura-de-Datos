@@ -11,6 +11,26 @@ namespace EDDatos_Tarea3_Rafael
         static void Main(string[] args)
         {
             /*Tarea 1;
+            string identificador_correcto = "1234";
+            string contraseña_correcta = "1111";
+            string identificador;
+            string contraseña;
+            do
+            {
+                Console.WriteLine("Ingrese su numero identificador");
+                identificador = Console.ReadLine();
+
+                Console.WriteLine("Ingrese su contraseña");
+                contraseña = Console.ReadLine();
+
+                if (identificador == identificador_correcto && contraseña == contraseña_correcta)
+                    Console.WriteLine("Acceso Correcto, Bienvenido!");
+                else
+                    Console.WriteLine("Identificador o Contraseña Incorrectos, Intente de nuevo");
+            }
+            while (identificador != identificador_correcto || contraseña != contraseña_correcta);
+                
+            Console.ReadLine();
             Console.WriteLine("Escriba su Usuario Numérico:");
             String usuario = Console.ReadLine();
             Console.WriteLine("Escriba su Contraseña:");
