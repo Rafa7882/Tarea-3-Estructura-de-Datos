@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\رافائل\EDDatos_Tarea3_Rafael\EDDatos_Tarea3_Rafael\obj\Debug\EDDatos_Tarea3_Rafael.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\رافائل\EDDatos_Tarea3_Rafael\EDDatos_Tarea3_Rafael\obj\Debug\EDDatos_Tarea3_Rafael.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\رافائل\EDDatos_Tarea3_Rafael\EDDatos_Tarea3_Rafael\bin\Debug\EDDatos_Tarea3_Rafael.exe.config
+C:\Users\usuario\Desktop\رافائل\EDDatos_Tarea3_Rafael\EDDatos_Tarea3_Rafael\bin\Debug\EDDatos_Tarea3_Rafael.exe
+C:\Users\usuario\Desktop\رافائل\EDDatos_Tarea3_Rafael\EDDatos_Tarea3_Rafael\bin\Debug\EDDatos_Tarea3_Rafael.pdb
+C:\Users\usuario\Desktop\رافائل\EDDatos_Tarea3_Rafael\EDDatos_Tarea3_Rafael\obj\Debug\EDDatos_Tarea3_Rafael.exe
+C:\Users\usuario\Desktop\رافائل\EDDatos_Tarea3_Rafael\EDDatos_Tarea3_Rafael\obj\Debug\EDDatos_Tarea3_Rafael.pdb
